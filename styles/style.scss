@@ -189,7 +189,8 @@ body {
             background-color: #9fe8dd;
           }
           &:disabled {
-            filter: brightness(0.3);
+            color: $Very-dark-cyan;
+            background-color: #0d686d;
           }
         }
       }

@@ -248,8 +248,8 @@ body .container .right .right__bot .reset:hover {
 }
 
 body .container .right .right__bot .reset:disabled {
-  -webkit-filter: brightness(0.3);
-          filter: brightness(0.3);
+  color: #00494d;
+  background-color: #0d686d;
 }
 
 .title {
