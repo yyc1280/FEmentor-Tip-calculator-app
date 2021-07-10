@@ -22,6 +22,7 @@ body {
       -ms-flex-align: center;
           align-items: center;
   padding: 10vh 0;
+  margin: auto;
 }
 
 body img {
