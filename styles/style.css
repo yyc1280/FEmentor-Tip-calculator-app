@@ -252,10 +252,6 @@ body .container .right .right__bot .reset:disabled {
           filter: brightness(0.3);
 }
 
-body .container .right .right__bot .reset:disabled:hover {
-  pointer-events: none;
-}
-
 .title {
   font-weight: 400;
   color: #637376;
